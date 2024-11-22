@@ -26,8 +26,7 @@ public class ClienteController {
     private CadastroCliente cadastroCliente;
 
     @Autowired
-    public ClienteController(BuscaCliente buscarCliente,
-                             CadastroCliente cadastroCliente) {
+    public ClienteController(BuscaCliente buscarCliente, CadastroCliente cadastroCliente) {
         this.buscaCliente = buscarCliente;
         this.cadastroCliente = cadastroCliente;
     }
