@@ -10,5 +10,3 @@ spring:
       uri: mongodb://mongoadmin:mongopass@localhost:27017/microsservice?authSource=admin&retryWrites=true&w=majority
       database: produto
       auto-index-creation: true
-
-application-version: 1.0
