@@ -34,10 +34,21 @@ Microsserviço de vendas online que simula o funcionamento de um carrinho de com
 - [Java] (versão 17 ou superior)
 - [MongoDB] (para rodar localmente)
 
-## Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou enviar um pull request.
+## Contribuindo
+
+Contribuições são bem-vindas! Para contribuir com o projeto, por favor siga estes passos:
+
+1. Faça um fork do repositório.
+2. Crie uma branch para sua feature ou correção (`git checkout -b feature/nova-feature`).
+3. Faça commit das suas mudanças (`git commit -am 'Adiciona nova feature'`).
+4. Envie suas alterações para o repositório (`git push origin feature/nova-feature`).
+5. Abra um pull request.
 
 ## Contato
 E-mail: wellscostaofc@gmail.com.
 
 LinkedIn: https://www.linkedin.com/in/wellington-santos-backend-java/
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
